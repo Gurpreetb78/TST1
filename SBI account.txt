@@ -1,0 +1,13 @@
+Here is the info:
+Account: 00000011100676959 (Nilesh primary - joint with Gurpreet)
+
+Account : 00000030544097421 (Mrs. GURPREET BAL)
+Bank : State Bank Of India
+State : Maharashtra
+District : Thane
+Branch : Thane Main
+IFSC Code : SBIN0000489 (5th character is zero)
+MICR Code : 400002094
+Branch Code : 000489 (Last 6 Characters of the IFSC Code)
+City : Thane
+Address : Netaji Subhashchandra Bose Road, Distt Thane, Maharashtra, Pin: 400601
